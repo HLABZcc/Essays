@@ -4,7 +4,7 @@
 
 ## Essay writing on cryptocurrencies by HLABZcc® ⭐️
 
-- [ ] Reserve Protocol Essay 📓 
+- [ ] Reserve Protocol Essay 📓 (🚨: https://gitcoin.co/issue/29519)
 - [ ] Coming Soon...
 
 ## Essay writing about coding by HLABZcc® 💯
