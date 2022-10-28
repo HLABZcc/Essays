@@ -1,5 +1,7 @@
 # Essay by HLABZcc® 📓
 
+- [ ] 📓: https://essay.hlabz.cc/
+
 ## Essay writing on cryptocurrencies by HLABZcc® ⭐️
 
 - [ ] Reserve Protocol Essay 📓 
@@ -13,3 +15,5 @@
 ## Essay writing about everything by HLABZcc® 💎
 
 - [ ] ...
+
+<hr/>
