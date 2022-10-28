@@ -1,6 +1,6 @@
 # Essays by HLABZcc® 📓
 
-- [ ] 📓: https://essay.hlabz.cc/
+- [ ] 📓: https://essays.hlabz.cc/
 
 ## Essay writing on cryptocurrencies by HLABZcc® ⭐️
 
