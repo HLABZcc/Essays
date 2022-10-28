@@ -1,4 +1,4 @@
-# Essay by HLABZcc® 📓
+# Essays by HLABZcc® 📓
 
 - [ ] 📓: https://essay.hlabz.cc/
 
