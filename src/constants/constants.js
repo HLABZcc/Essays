@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: '📓 Reserve Protocol',
-    description: "Essay Coming Soon!",
+    description: "👉 Essay Coming Soon! ⏰",
     image: '/images/1.png',
     tags: ['Essay', 'Reserve Protocol'],
     source: 'https://github.com/HLABZcc/Reserve-Protocol',
