@@ -10,12 +10,6 @@
 - [ ] **🚜 Hackathon: Reserve Protocol Launch Hackathon** 🚨: ***https://gitcoin.co/issue/29519***
 - [ ] **🔜 Coming Soon...**
 
-<hr/>
-
-  <p align="center">
-    <a href="https://www.hlabz.cc/"><img src="https://user-images.githubusercontent.com/113842155/195224448-f56ebf5c-a876-4a4a-b364-250f9220419e.png" width="42px"></a>
-  </p>
-
 ## DONATE 🎁
 ![Donate BTC](https://user-images.githubusercontent.com/106092954/169848186-ce4f7702-c9ff-4d76-b66f-253156fd7b78.png)  ![Donate LTC](https://user-images.githubusercontent.com/106092954/169848564-e78402e8-6d19-41ec-a0dd-80f0669298bd.png)  ![Donate BCH](https://user-images.githubusercontent.com/106092954/169848724-9c78a57e-7009-49e4-afa3-11d7c93063ea.png)
 
@@ -28,5 +22,10 @@
 
 ![#HLABZ](https://user-images.githubusercontent.com/113842155/198449799-7877d3d9-2116-4d75-b413-ada411c01215.png)
 
+<hr/>
+
+  <p align="center">
+    <a href="https://www.hlabz.cc/"><img src="https://user-images.githubusercontent.com/113842155/195224448-f56ebf5c-a876-4a4a-b364-250f9220419e.png" width="42px"></a>
+  </p>
   
   
