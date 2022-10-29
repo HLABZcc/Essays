@@ -9,7 +9,7 @@
 - [ ] **📓 Reserve Protocol Essay** ➡️ https://essays.hlabz.cc/reserve-protocol
 - [ ] **Hackathon: Reserve Protocol Launch Hackathon** 🚨: ***https://gitcoin.co/issue/29519***
 
-- [ ] **Coming Soon...**
+- [ ] **🔜 Coming Soon...**
 
 <hr/>
 
