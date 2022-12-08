@@ -4,8 +4,8 @@ export const projects = [
     description: "👉 Essay Coming Soon! ⏰",
     image: '/images/1.png',
     tags: ['Essay', 'Reserve Protocol'],
-    source: 'https://reserve.org/',
-    visit: 'https://github.com/HLABZcc/Reserve-Protocol',
+    source: 'https://github.com/HLABZcc/Reserve-Protocol',
+    visit: 'https://essays.hlabz.cc/Reserve%20Protocol%20Essay%20by%20HLABZcc.pdf',
     id: 0,
   },
   {
