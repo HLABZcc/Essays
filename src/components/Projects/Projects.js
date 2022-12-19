@@ -32,6 +32,7 @@ const Projects = () => (
               <ExternalLinks href={p.source}>Source</ExternalLinks>
             </UtilityList>
             <h3><strong>by <a href="https://www.hlabz.cc/">HLABZ.cc®</a></strong></h3>
+            <br />
           </BlogCard>
         );
       })}
