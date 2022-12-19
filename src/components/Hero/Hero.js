@@ -15,7 +15,7 @@ const Hero = (props) => (
         <SectionText>
           <strong>HLABZ®</strong> is a multifaceted technology company with a focus on staying ahead of the curve. 🌊
         </SectionText>
-        <a href="https://github.com/HLABZcc/Essays"><Button>→ Learn More</Button></a>
+        <a href="https://www.hlabz.cc"><Button>→ Learn More</Button></a>
       </LeftSection>
     </Section>
   </>
