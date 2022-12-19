@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: '🆔 NextID',
-    description: "👉 Essay Coming Soon! ⏰",
+    description: "Next.ID is a decentralized identity aggregation protocol that integrates all Web2 and Web3 digital identities...",
     image: '/images/2.png',
     tags: ['Essay', 'NextID'],
     source: 'https://www.hlabz.cc',
