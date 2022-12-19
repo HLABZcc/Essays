@@ -1,20 +1,20 @@
 export const projects = [
   {
     title: '📓 Reserve Protocol',
-    description: "👉 Essay Coming Soon! ⏰",
+    description: "Why RToken collateral plugins are so important for the future of DeFi & the Real World?",
     image: '/images/1.png',
     tags: ['Essay', 'Reserve Protocol'],
-    source: 'https://github.com/HLABZcc/Reserve-Protocol',
-    visit: 'https://essays.hlabz.cc/Reserve%20Protocol%20Essay%20by%20HLABZcc.pdf',
+    source: 'https://essays.hlabz.cc/Reserve%20Protocol%20Essay%20by%20HLABZcc.pdf',
+    visit: 'https://github.com/HLABZcc/Reserve-Protocol',
     id: 0,
   },
   {
-    title: 'Coming soon...⏰',
-    description: "Coming soon...⏰",
+    title: '🆔 NextID',
+    description: "👉 Essay Coming Soon! ⏰",
     image: '/images/2.png',
-    tags: ['Coming soon...⏰'],
+    tags: ['Essay', 'NextID'],
     source: 'https://www.hlabz.cc',
-    visit: 'https://www.hlabz.cc',
+    visit: 'https://github.com/HLABZcc/Next.ID',
     id: 1,
   },
   {
