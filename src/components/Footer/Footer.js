@@ -9,8 +9,8 @@ const Footer = () => {
     <FooterWrapper>
       <LinkList>
         <LinkColumn>
-          <LinkTitle>⟠ 746200.eth</LinkTitle>
-          <LinkItem href="https://debank.com/profile/0xbff3ee7d3648ce6b7de82dea427c3a1629aaf671">⟠ 746200.eth</LinkItem>
+          <LinkTitle>xTycoon.ᴇᴛʜ ⟠</LinkTitle>
+          <LinkItem href="https://debank.com/profile/0xbff3ee7d3648ce6b7de82dea427c3a1629aaf671">xTycoon.ᴇᴛʜ ⟠</LinkItem>
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
