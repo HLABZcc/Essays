@@ -18,12 +18,12 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'Coming soon...⏰',
-    description: "Coming soon...⏰",
+    title: '🏴 Algorand NFTs',
+    description: "Marketing strategy to build the NFT Space on Algorand. 🏆",
     image: '/images/3.png',
-    tags: ['Coming soon...⏰'],
+    tags: ['Marketing Plan', 'Algorand'],
     source: 'https://www.hlabz.cc',
-    visit: 'https://www.hlabz.cc',
+    visit: 'https://github.com/HLABZcc/NFTs-Marketing-Plan',
     id: 2,
   },
   {
