@@ -4,7 +4,7 @@ export const projects = [
     description: "Why RToken collateral plugins are so important for the future of DeFi & the Real World?",
     image: '/images/1.png',
     tags: ['Essay', 'Reserve Protocol'],
-    source: 'https://mirror.xyz/746200.eth/knNaT6TR9ulQtbE9Y9UTqCix0NpRQxVWVvfKm-vudV8',
+    source: 'https://mirror.xyz/xtycoon.eth/knNaT6TR9ulQtbE9Y9UTqCix0NpRQxVWVvfKm-vudV8',
     visit: 'https://github.com/HLABZcc/Reserve-Protocol',
     id: 0,
   },
