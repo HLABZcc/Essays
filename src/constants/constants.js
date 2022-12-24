@@ -13,7 +13,7 @@ export const projects = [
     description: "Next.ID is a decentralized identity aggregation protocol that integrates all Web2 and Web3 digital identities...",
     image: '/images/2.png',
     tags: ['Essay', 'NextID'],
-    source: 'https://www.hlabz.cc',
+    source: 'https://mirror.xyz/xtycoon.eth/KJvJSDGAIUZ0DCDNDOJo1RCBbKbu0pwy-iRZEeLjidQ',
     visit: 'https://github.com/HLABZcc/Next.ID',
     id: 1,
   },
